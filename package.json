@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"Chatbot vendedor por WhatsApp con IA (Google Gemini) para Little Genius - Bolivia","engines":{"node":">=18"},"main":"server.js","name":"chatbot-ventas-little-genius","scripts":{"start":"node server.js"},"version":"1.0.0"}
